@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="27730" started-at="2016-08-07T23:01:28Z" finished-at="2016-08-07T23:01:56Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="27730" started-at="2016-08-07T23:01:28Z" finished-at="2016-08-07T23:01:56Z">
+      <class name="com.jpmchase.digital.FirstTestNG">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.jpmchase.digital.FirstTestNG@181a1bc]" name="beforeTest" is-config="true" duration-ms="18983" started-at="2016-08-07T19:01:28Z" finished-at="2016-08-07T19:01:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testEasy()[pri:0, instance:com.jpmchase.digital.FirstTestNG@181a1bc]" name="testEasy" duration-ms="8456" started-at="2016-08-07T19:01:47Z" finished-at="2016-08-07T19:01:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEasy -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.jpmchase.digital.FirstTestNG@181a1bc]" name="afterTest" is-config="true" duration-ms="272" started-at="2016-08-07T19:01:56Z" finished-at="2016-08-07T19:01:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.jpmchase.digital.FirstTestNG -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
